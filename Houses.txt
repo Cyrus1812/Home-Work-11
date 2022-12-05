@@ -1,0 +1,5 @@
+Number: 13 S = 172 Price: 6679150 Price one meter: 38832
+Number: 3 S = 228 Price: 5722073 Price one meter: 25096
+Number: 12 S = 239 Price: 5230665 Price one meter: 21885
+Number: 9 S = 249 Price: 8982123 Price one meter: 36072
+Number: 5 S = 275 Price: 7536818 Price one meter: 27406
